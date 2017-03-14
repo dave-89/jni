@@ -32,3 +32,9 @@ Export the environment variable:
 ```shell
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:.
 ```
+
+Then execute:
+
+```
+java davide.jni.HalloFromC
+```
